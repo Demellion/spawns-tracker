@@ -19,5 +19,6 @@
 }
 
 body {
-    background-color: rgba(38, 38, 38)
+    background-color: rgba(38, 38, 38);
+    overflow: hidden;
 }
